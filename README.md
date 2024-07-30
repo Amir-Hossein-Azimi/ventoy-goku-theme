@@ -50,6 +50,14 @@ This repository provides a custom Goku theme for Ventoy. Follow the instructions
 
     Safely eject your Ventoy drive and reinsert it. Boot from the drive to ensure the theme has been applied correctly.
 
+## Ventoy Documentation
+
+For more detailed information and advanced configurations, refer to the official Ventoy documentation:
+
+- [Ventoy Main Page](https://www.ventoy.net)
+- [Ventoy Documentation](https://www.ventoy.net/en/doc_start.html)
+- [Ventoy GitHub Repository](https://github.com/ventoy/Ventoy)
+
 ## Troubleshooting
 
 - If the theme does not appear, make sure the `ventoy` folder is correctly placed in the root directory of your Ventoy drive.
@@ -62,4 +70,3 @@ If you encounter any issues or have suggestions for improvements, feel free to o
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
